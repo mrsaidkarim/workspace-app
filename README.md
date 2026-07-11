@@ -4,6 +4,9 @@ A lightweight full-stack workspace application that allows users to organize **T
 
 This project was built to demonstrate clean architecture, REST API design, CRUD operations, and a responsive frontend using modern web technologies.
 
+## Live Demo
+https://workspace-app-npru.vercel.app/
+
 ## Features
 
 * Create and list Teams
